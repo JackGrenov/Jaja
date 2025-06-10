@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "sk-or-v1-791900e533fЛАЛАЛАЛАdad799ba6a2745534fab9395ca51b7cЛАЛАЛА2ef055241c4eb1469f2d15"  # твой ключ
+API_KEY = "API_KEY"  # твой ключ
 MODEL = "deepseek/deepseek-r1-0528-qwen3-8b:free"
 history = []
 
